@@ -1,0 +1,10 @@
+{
+    "name": "Tavily Search",
+    "version": "0.5.0",
+    "description": "Plugin that allows to search with Tavily API",
+    "author_name": "Federico Palma",
+    "author_url": "https://www.linkedin.com/in/palmafederico",
+    "plugin_url": "https://github.com/federicopalma-pro/tavily-search",
+    "tags": "search, tavily",
+    "thumb": "https://raw.githubusercontent.com/federicopalma-pro/tavily-search/main/tavily_search_logo.png"
+}
