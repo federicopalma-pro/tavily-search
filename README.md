@@ -1,7 +1,6 @@
 # Tavily Search Plugin
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=Awesome+plugin&color=000000&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
 
 A powerful Python plugin for integrating Tavily Search API into your applications, providing AI-powered web search capabilities in natural language.
 
